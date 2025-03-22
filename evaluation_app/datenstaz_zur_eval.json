@@ -1,0 +1,486 @@
+[
+  {
+    "id": "1",
+    "context": "Artikel 1 des Grundgesetzes besagt: Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.",
+    "question": "Welche Verpflichtungen ergeben sich für den Staat aus Artikel 1 GG?",
+    "answers": [
+      {
+        "text": "Der Staat ist verpflichtet, die Würde jedes Menschen zu achten und zu schützen.",
+        "answer_start": 47
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "context": "Artikel 16a des Grundgesetzes besagt: Politisch Verfolgte genießen Asylrecht.",
+    "question": "Welche Voraussetzungen müssen erfüllt sein, damit eine Person in Deutschland Asyl erhält?",
+    "answers": [
+      {
+        "text": "Die Person muss nachweisen, dass sie politisch verfolgt wird.",
+        "answer_start": 13
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "context": "§ 60 AufenthG: Eine Abschiebung eines Ausländers ist unzulässig, wenn ihm in seinem Herkunftsland Folter oder unmenschliche Behandlung droht.",
+    "question": "Welche rechtlichen Möglichkeiten gibt es, eine Abschiebung nach § 60 AufenthG zu verhindern?",
+    "answers": [
+      {
+        "text": "Einzelfallprüfung durch Gerichte, Widerspruch oder Asylantrag.",
+        "answer_start": 72
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "context": "Artikel 5 des Grundgesetzes garantiert die Meinungsfreiheit, die Pressefreiheit und die Freiheit der Berichterstattung.",
+    "question": "Inwiefern kann Artikel 5 GG zur Regulierung sozialer Medien herangezogen werden?",
+    "answers": [
+      {
+        "text": "Durch Gesetze zur Bekämpfung von Hassrede und Fake News.",
+        "answer_start": 49
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "context": "§ 823 BGB: Wer vorsätzlich oder fahrlässig das Leben, den Körper, die Gesundheit, die Freiheit, das Eigentum oder ein sonstiges Recht eines anderen widerrechtlich verletzt, ist dem anderen zum Ersatz des daraus entstehenden Schadens verpflichtet.",
+    "question": "Welche rechtlichen Folgen hat es, wenn jemand nach § 823 BGB haftbar gemacht wird?",
+    "answers": [
+      {
+        "text": "Die Person muss Schadensersatz für den entstandenen Schaden leisten.",
+        "answer_start": 120
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "context": "Artikel 20 GG: Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat.",
+    "question": "Welche Auswirkungen hat Artikel 20 GG auf die föderale Struktur Deutschlands?",
+    "answers": [
+      {
+        "text": "Es garantiert die Gewaltenteilung zwischen Bund und Ländern.",
+        "answer_start": 47
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "context": "§ 177 StGB: Wer gegen den erkennbaren Willen einer anderen Person sexuelle Handlungen vornimmt, wird mit Freiheitsstrafe nicht unter einem Jahr bestraft.",
+    "question": "Welche Schutzmaßnahmen wurden durch die Reform des § 177 StGB eingeführt?",
+    "answers": [
+      {
+        "text": "Die Ausweitung des Begriffs der sexuellen Nötigung und eine härtere Bestrafung.",
+        "answer_start": 53
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "context": "Die Datenschutz-Grundverordnung (DSGVO) regelt die Verarbeitung personenbezogener Daten und stärkt die Rechte von Betroffenen.",
+    "question": "Welche Rechte haben betroffene Personen nach der DSGVO?",
+    "answers": [
+      {
+        "text": "Recht auf Auskunft, Löschung, Berichtigung und Datenübertragbarkeit.",
+        "answer_start": 55
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "context": "§ 25 AufenthG: Eine Aufenthaltserlaubnis kann aus humanitären Gründen erteilt werden, wenn eine Abschiebung aus rechtlichen oder tatsächlichen Gründen nicht möglich ist.",
+    "question": "Unter welchen Bedingungen kann eine Aufenthaltserlaubnis nach § 25 AufenthG erteilt werden?",
+    "answers": [
+      {
+        "text": "Wenn humanitäre Gründe oder rechtliche Hindernisse eine Abschiebung verhindern.",
+        "answer_start": 34
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "context": "§ 985 BGB: Der Eigentümer kann von dem Besitzer die Herausgabe einer Sache verlangen, wenn dieser kein Recht zum Besitz hat.",
+    "question": "Welche rechtlichen Mittel stehen Eigentümern zur Verfügung, um ihr Eigentum zurückzufordern?",
+    "answers": [
+      {
+        "text": "Eigentumsklage nach § 985 BGB gegen unberechtigte Besitzer.",
+        "answer_start": 25
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "context": "Artikel 3 des Grundgesetzes garantiert die Gleichheit aller Menschen vor dem Gesetz. Niemand darf wegen seines Geschlechts, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, seiner religiösen oder politischen Anschauungen benachteiligt oder bevorzugt werden.",
+    "question": "Welche Diskriminierungsverbote sind in Artikel 3 GG geregelt?",
+    "answers": [
+      {
+        "text": "Geschlecht, Abstammung, Rasse, Sprache, Heimat, Herkunft, Glaube, Religion, politische Anschauung.",
+        "answer_start": 90
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "context": "§ 223 StGB: Wer eine andere Person körperlich misshandelt oder an der Gesundheit schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.",
+    "question": "Welche Voraussetzungen müssen für eine Strafbarkeit nach § 223 StGB erfüllt sein?",
+    "answers": [
+      {
+        "text": "Eine körperliche Misshandlung oder Gesundheitsschädigung einer anderen Person.",
+        "answer_start": 19
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "context": "Artikel 13 GG schützt die Unverletzlichkeit der Wohnung. Eingriffe und Beschränkungen sind nur auf gesetzlicher Grundlage zulässig.",
+    "question": "Unter welchen Bedingungen darf der Staat in die Unverletzlichkeit der Wohnung eingreifen?",
+    "answers": [
+      {
+        "text": "Nur auf gesetzlicher Grundlage, z. B. bei richterlichem Durchsuchungsbeschluss.",
+        "answer_start": 58
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "context": "§ 626 BGB: Ein Arbeitsverhältnis kann von beiden Seiten aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist gekündigt werden.",
+    "question": "Welche Gründe rechtfertigen eine fristlose Kündigung nach § 626 BGB?",
+    "answers": [
+      {
+        "text": "Ein wichtiger Grund wie Diebstahl, Betrug oder schwere Pflichtverletzung.",
+        "answer_start": 48
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "context": "Die DSGVO gibt betroffenen Personen das Recht auf Löschung ihrer personenbezogenen Daten, wenn die Speicherung nicht mehr erforderlich ist.",
+    "question": "Unter welchen Bedingungen können personenbezogene Daten gemäß DSGVO gelöscht werden?",
+    "answers": [
+      {
+        "text": "Wenn die Speicherung nicht mehr erforderlich ist oder eine Einwilligung widerrufen wurde.",
+        "answer_start": 60
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "context": "Artikel 6 GG schützt Ehe und Familie und garantiert Eltern das Recht, ihre Kinder zu erziehen.",
+    "question": "Welche Rechte haben Eltern nach Artikel 6 GG?",
+    "answers": [
+      {
+        "text": "Das Recht, ihre Kinder zu erziehen und über deren Wohlergehen zu entscheiden.",
+        "answer_start": 64
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "context": "§ 266 StGB: Wer die ihm durch Gesetz, behördlichen Auftrag oder Rechtsgeschäft eingeräumte Befugnis, über fremdes Vermögen zu verfügen oder einen anderen zu verpflichten, missbraucht und dadurch dem anderen Nachteil zufügt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.",
+    "question": "Was ist Untreue gemäß § 266 StGB?",
+    "answers": [
+      {
+        "text": "Missbrauch einer Vermögensbetreuungspflicht zum Nachteil eines anderen.",
+        "answer_start": 20
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "context": "§ 185 StGB: Die Beleidigung wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.",
+    "question": "Welche rechtlichen Konsequenzen kann eine Beleidigung nach § 185 StGB haben?",
+    "answers": [
+      {
+        "text": "Eine Freiheitsstrafe bis zu einem Jahr oder eine Geldstrafe.",
+        "answer_start": 23
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "context": "§ 211 StGB: Mörder ist, wer aus Mordlust, zur Befriedigung des Geschlechtstriebs, aus Habgier oder sonst aus niedrigen Beweggründen einen Menschen tötet.",
+    "question": "Welche Merkmale kennzeichnen Mord nach § 211 StGB?",
+    "answers": [
+      {
+        "text": "Mordlust, Befriedigung des Geschlechtstriebs, Habgier, niedrige Beweggründe.",
+        "answer_start": 21
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "context": "Artikel 12 GG garantiert die Berufsfreiheit. Jeder Deutsche hat das Recht, Beruf, Arbeitsplatz und Ausbildungsstätte frei zu wählen.",
+    "question": "Welche Einschränkungen der Berufsfreiheit sind nach Artikel 12 GG zulässig?",
+    "answers": [
+      {
+        "text": "Einschränkungen durch gesetzliche Regelungen zum Schutz der Allgemeinheit.",
+        "answer_start": 89
+      }
+    ]
+  },
+    {
+      "id": "21",
+      "context": "Artikel 8 des Grundgesetzes garantiert das Recht aller Deutschen, sich ohne Anmeldung oder Erlaubnis friedlich und ohne Waffen zu versammeln.",
+      "question": "Welche Einschränkungen sind für Versammlungen nach Artikel 8 GG möglich?",
+      "answers": [
+        {
+          "text": "Einschränkungen durch Gesetze, z. B. für Versammlungen unter freiem Himmel.",
+          "answer_start": 81
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "context": "§ 44 StVO: Wer ein Fahrzeug unter Alkoholeinfluss führt und dadurch den Verkehr gefährdet, begeht eine Ordnungswidrigkeit oder Straftat.",
+      "question": "Welche Konsequenzen drohen bei Fahren unter Alkoholeinfluss gemäß § 44 StVO?",
+      "answers": [
+        {
+          "text": "Bußgeld, Führerscheinentzug oder Freiheitsstrafe bei Gefährdung.",
+          "answer_start": 92
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "context": "Artikel 11 GG sichert das Recht auf Freizügigkeit. Jeder Deutsche kann sich im gesamten Bundesgebiet frei bewegen.",
+      "question": "Welche gesetzlichen Einschränkungen des Freizügigkeitsrechts nach Artikel 11 GG sind möglich?",
+      "answers": [
+        {
+          "text": "Beschränkungen aus Gründen der öffentlichen Sicherheit oder Seuchenschutz.",
+          "answer_start": 83
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "context": "§ 315c StGB: Wer grob verkehrswidrig und rücksichtslos das Leben anderer Verkehrsteilnehmer gefährdet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.",
+      "question": "Welche Verhaltensweisen können nach § 315c StGB als Straßenverkehrsgefährdung gelten?",
+      "answers": [
+        {
+          "text": "Zu schnelles Fahren, Überfahren roter Ampeln oder riskantes Überholen.",
+          "answer_start": 84
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "context": "§ 226 StGB: Wer eine andere Person so verletzt, dass sie ihr Sehvermögen, Gehör, Sprechvermögen oder die Fortpflanzungsfähigkeit verliert, wird mit Freiheitsstrafe nicht unter drei Jahren bestraft.",
+      "question": "Welche Voraussetzungen müssen für eine Strafbarkeit nach § 226 StGB vorliegen?",
+      "answers": [
+        {
+          "text": "Schwere Körperverletzung mit bleibender Beeinträchtigung einer wichtigen Körperfunktion.",
+          "answer_start": 45
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "context": "Artikel 14 GG schützt das Eigentum, legt aber auch fest, dass sein Gebrauch dem Wohl der Allgemeinheit dienen soll.",
+      "question": "Wie kann der Gesetzgeber gemäß Artikel 14 GG das Eigentumsrecht beschränken?",
+      "answers": [
+        {
+          "text": "Durch Gesetze zur Enteignung oder zur Nutzung im Allgemeinwohl.",
+          "answer_start": 69
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "context": "§ 263 StGB: Wer in der Absicht, sich oder einen anderen rechtswidrig zu bereichern, durch Täuschung einen Irrtum erregt und dadurch einen Vermögensschaden verursacht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.",
+      "question": "Welche Elemente müssen für eine Strafbarkeit wegen Betrugs nach § 263 StGB vorliegen?",
+      "answers": [
+        {
+          "text": "Täuschung, Irrtum, Vermögensschaden und Bereicherungsabsicht.",
+          "answer_start": 89
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "context": "§ 90a StGB: Wer öffentlich die Symbole verfassungswidriger Organisationen verwendet, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.",
+      "question": "Welche Strafen drohen für die Verwendung verfassungswidriger Symbole nach § 90a StGB?",
+      "answers": [
+        {
+          "text": "Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.",
+          "answer_start": 90
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "context": "Artikel 15 GG erlaubt es, Grund und Boden, Naturschätze und Produktionsmittel in Gemeineigentum oder andere Formen der Gemeinwirtschaft zu überführen.",
+      "question": "Welche rechtlichen Voraussetzungen gelten für eine Vergesellschaftung nach Artikel 15 GG?",
+      "answers": [
+        {
+          "text": "Erforderlich ist ein Gesetz, das Art und Ausmaß der Entschädigung regelt.",
+          "answer_start": 93
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "context": "§ 131 StGB verbietet die Verbreitung von Gewalt verherrlichenden oder grausamen Darstellungen, die geeignet sind, die Menschenwürde zu verletzen.",
+      "question": "Welche Inhalte sind nach § 131 StGB strafbar?",
+      "answers": [
+        {
+          "text": "Gewaltverherrlichende, grausame und menschenunwürdige Darstellungen.",
+          "answer_start": 70
+        }
+      ]
+    },
+  {
+    "id": "31",
+    "context": "Artikel 9 des Grundgesetzes garantiert das Recht, Vereine und Gesellschaften zu bilden, verbietet aber Vereinigungen, die gegen die verfassungsmäßige Ordnung verstoßen.",
+    "question": "Unter welchen Bedingungen kann eine Vereinigung nach Artikel 9 GG verboten werden?",
+    "answers": [
+      {
+        "text": "Wenn sie gegen die verfassungsmäßige Ordnung oder das Strafrecht verstößt.",
+        "answer_start": 89
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "context": "§ 267 StGB: Wer zur Täuschung im Rechtsverkehr eine Urkunde fälscht oder eine echte Urkunde verfälscht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.",
+    "question": "Welche Handlungen sind nach § 267 StGB als Urkundenfälschung strafbar?",
+    "answers": [
+      {
+        "text": "Fälschung, Verfälschung oder Verwendung einer gefälschten Urkunde.",
+        "answer_start": 20
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "context": "Artikel 17 GG garantiert das Petitionsrecht. Jeder hat das Recht, sich mit Bitten oder Beschwerden an die zuständigen Stellen und Volksvertretungen zu wenden.",
+    "question": "Welche Bedeutung hat das Petitionsrecht nach Artikel 17 GG für Bürger?",
+    "answers": [
+      {
+        "text": "Ermöglicht Bürgern, Anliegen direkt an Behörden oder Parlamente zu richten.",
+        "answer_start": 59
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "context": "§ 239 StGB: Wer einen Menschen einsperrt oder auf andere Weise der Freiheit beraubt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.",
+    "question": "Welche Voraussetzungen müssen für eine Strafbarkeit wegen Freiheitsberaubung nach § 239 StGB vorliegen?",
+    "answers": [
+      {
+        "text": "Einsperren oder anderweitige Freiheitsentziehung einer Person.",
+        "answer_start": 20
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "context": "§ 240 StGB: Wer einen Menschen rechtswidrig mit Gewalt oder durch Drohung mit einem empfindlichen Übel zu einer Handlung, Duldung oder Unterlassung nötigt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.",
+    "question": "Wann liegt nach § 240 StGB eine strafbare Nötigung vor?",
+    "answers": [
+      {
+        "text": "Wenn Gewalt oder Drohung zu einer unerwünschten Handlung führt.",
+        "answer_start": 20
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "context": "Artikel 19 GG legt fest, dass Grundrechte in ihrem Wesensgehalt nicht angetastet werden dürfen und Gesetze, die Grundrechte einschränken, allgemein und nicht diskriminierend gelten müssen.",
+    "question": "Welche Schranken gelten für Grundrechtseinschränkungen nach Artikel 19 GG?",
+    "answers": [
+      {
+        "text": "Grundrechte dürfen nicht in ihrem Wesensgehalt angetastet werden.",
+        "answer_start": 23
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "context": "§ 90 StGB: Wer öffentlich den Staat oder seine Symbole in einer Weise verunglimpft, die geeignet ist, das Ansehen der Bundesrepublik Deutschland zu schädigen, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.",
+    "question": "Wann macht man sich nach § 90 StGB wegen Verunglimpfung des Staates strafbar?",
+    "answers": [
+      {
+        "text": "Wenn öffentliche Äußerungen das Ansehen der Bundesrepublik erheblich schädigen.",
+        "answer_start": 40
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "context": "§ 117 OWiG: Wer ohne zwingenden Grund erheblichen Lärm verursacht, der geeignet ist, die Allgemeinheit oder die Nachbarschaft erheblich zu belästigen, handelt ordnungswidrig.",
+    "question": "Welche Bedingungen müssen für eine Ordnungswidrigkeit nach § 117 OWiG erfüllt sein?",
+    "answers": [
+      {
+        "text": "Erheblicher Lärm ohne zwingenden Grund mit störender Wirkung auf andere.",
+        "answer_start": 27
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "context": "Artikel 28 GG legt fest, dass die verfassungsmäßige Ordnung in den Ländern den Grundsätzen eines demokratischen und sozialen Rechtsstaates entsprechen muss.",
+    "question": "Welche Anforderungen stellt Artikel 28 GG an die Landesverfassungen?",
+    "answers": [
+      {
+        "text": "Die Verfassungen der Länder müssen demokratische und soziale Prinzipien wahren.",
+        "answer_start": 73
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "context": "§ 81 StGB: Wer es unternimmt, mit Gewalt oder durch Drohung mit Gewalt die verfassungsmäßige Ordnung der Bundesrepublik Deutschland zu ändern, wird wegen Hochverrats bestraft.",
+    "question": "Welche Handlungen fallen unter Hochverrat nach § 81 StGB?",
+    "answers": [
+      {
+        "text": "Gewaltsame Umsturzversuche gegen die verfassungsmäßige Ordnung.",
+        "answer_start": 21
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "context": "Artikel 6 GG schützt Ehe und Familie und garantiert Eltern das natürliche Recht zur Erziehung ihrer Kinder.",
+    "question": "In welchen Fällen kann der Staat nach Artikel 6 GG in die Erziehung eingreifen?",
+    "answers": [
+      {
+        "text": "Wenn das Kindeswohl gefährdet ist, z. B. bei Misshandlung oder Vernachlässigung.",
+        "answer_start": 79
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "context": "§ 248b StGB: Wer ein Fahrzeug gegen den Willen des Berechtigten in Gebrauch nimmt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.",
+    "question": "Wann liegt eine unbefugte Ingebrauchnahme eines Fahrzeugs nach § 248b StGB vor?",
+    "answers": [
+      {
+        "text": "Wenn ein Fahrzeug ohne Erlaubnis des Eigentümers benutzt wird.",
+        "answer_start": 23
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "context": "Artikel 16 GG schützt deutsche Staatsbürger vor Ausbürgerung und Auslieferung ins Ausland, es sei denn, ein Gesetz erlaubt die Auslieferung.",
+    "question": "Unter welchen Bedingungen kann eine Auslieferung nach Artikel 16 GG erfolgen?",
+    "answers": [
+      {
+        "text": "Nur, wenn es ein Gesetz erlaubt, z. B. bei internationalen Abkommen.",
+        "answer_start": 90
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "context": "§ 186 StGB: Wer über einen anderen eine unwahre Tatsache behauptet oder verbreitet, die geeignet ist, ihn verächtlich zu machen, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.",
+    "question": "Welche Voraussetzungen müssen für eine Strafbarkeit nach § 186 StGB erfüllt sein?",
+    "answers": [
+      {
+        "text": "Behauptung oder Verbreitung einer falschen, rufschädigenden Tatsache.",
+        "answer_start": 23
+      }
+    ]
+  }
+]
